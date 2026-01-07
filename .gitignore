@@ -5,7 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-
+generate_aqsoldb_ids.py
+Example_Data/smiles_tox.tsv
+Example_Data/test_tox.txt
+Example_Data/train_tox.txt
+Example_Data/continuous_response_tox.tsv
+Example_Data/AqSolDB.csv
 # Distribution / packaging
 .Python
 build/
